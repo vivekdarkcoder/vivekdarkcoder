@@ -15,18 +15,6 @@
 
 
 
----
-
-<!-- Typing Animation -->
-
-<h1 align="center">Hi 👋, I'm Vivek Kumar Prajapati</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Automation+Learner;AI+Agent+Workflow+Builder;JavaScript+Developer&center=true&width=500&height=45">
-</p>
-
----
-
 ## 🚀 About Me
 
 * 🌱 Currently learning **AI Automation, n8n, and AI Agent Workflows**
