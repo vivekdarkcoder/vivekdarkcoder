@@ -27,12 +27,6 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-
 ---
 ## 🛠️ Languages & Tools
 
@@ -48,21 +42,38 @@
 
 </p>
 
-### Other Tools & Technologies
+## ⚙️ Other Tools & Technologies
 
-* React Native
-* Expo
-* React Router
-* React Query
-* React Hook Form
-* Styled Components
-* Nodemon
-* NPM
-* Apache
-* GitHub Actions
-* GitLab CI
-* ESLint
-* Dribbble
+<p align="left">
+
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Styled%20Components-db7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>
+
+</p>
+
 
 ### Frameworks & Libraries
 
