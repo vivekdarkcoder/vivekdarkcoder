@@ -24,10 +24,6 @@
 * 📚 Always learning **new technologies and tools**
 
 ---
-
-## 🛠️ Tech Stack
-
----
 ## 🛠️ Languages & Tools
 
 <p align="left">
