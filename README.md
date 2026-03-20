@@ -34,6 +34,35 @@
 ![CSS](https://skillicons.dev/icons?i=css)
 
 ---
+## 🛠️ Languages & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,js,ts,react,nextjs,nodejs,express,redux,tailwind,bootstrap,webpack"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,nginx,vercel,netlify"/>
+
+<img src="https://skillicons.dev/icons?i=postman,figma"/>
+
+</p>
+
+### Other Tools & Technologies
+
+* React Native
+* Expo
+* React Router
+* React Query
+* React Hook Form
+* Styled Components
+* Nodemon
+* NPM
+* Apache
+* GitHub Actions
+* GitLab CI
+* ESLint
+* Dribbble
 
 ### Frameworks & Libraries
 
